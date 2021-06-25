@@ -8,7 +8,7 @@ export const Functions = () => {
     return (
         <>
           <h3>Functions</h3> 
-          <span>The result is: {sum(1,1)}</span> 
+          <span>The result is:{sum(1,1)}</span> 
         </>
     )
 }
