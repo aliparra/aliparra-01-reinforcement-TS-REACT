@@ -13,7 +13,7 @@ interface Adress {
 export const LiteralObjects = () => {
 
     const person: Person = {
-        firstName: "Alicia",
+        firstName: "Alice",
         age: 25,
         adress: {
             country:"Spain",

@@ -3,11 +3,11 @@
 export const BasicTypes = () => {
 
     
-    const name: string = "Alicia";
+    const name: string = "Alice";
     const age: number = 25
     const active: boolean = true
-    //Puedes definir el tipo de dato que va a aceptar el string aunque aún no haya nada dentro. 
     const powers: string[] = []
+    const hours: number[] = []
 
     return (
         //I use a fragment
